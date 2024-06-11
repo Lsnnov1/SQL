@@ -1,0 +1,1 @@
+An exercise focusing on basic sql commands.
